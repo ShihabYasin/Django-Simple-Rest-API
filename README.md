@@ -110,5 +110,8 @@ With Json Body:
 }
 ``` 
 Updates the record accordingly. 
-5. ```[DELETE] http://127.0.0.1:8000/item/20/``` 
-Deletes the record accordingly.
+
+
+5. ```[DELETE] http://127.0.0.1:8000/item/20/```  
+
+Deletes the record accordingly.  
